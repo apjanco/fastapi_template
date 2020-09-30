@@ -13,7 +13,10 @@ To use this template:
 
 3. Update the [app/main.py](https://github.com/apjanco/fastapi_template/blob/master/app/main.py) file as desired. For simple changes you can edit the file directly in GitHub.  More advanced changes, including the addition of static files, templates, models, and other features, are best done in a local environment and then pushed to your repository.  Please see the [FastAPI documentation](https://fastapi.tiangolo.com/) for further details. 
 
-4. When you application is working and ready to deploy, click the button below.  
+4. When you application is working and ready to deploy, type the following in your browser: 
+https://heroku.com/deploy?template=https://github.com/<your git account>/<your repo>/tree/master  
+  
+for example, to deploy from this repository you'd type https://heroku.com/deploy?template=https://github.com/apjanco/fastapi_template/tree/master
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+Please note that you will be prompted to create a Hiroku user account if you do not have one. 
 
