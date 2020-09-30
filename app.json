@@ -1,5 +1,4 @@
 {
   "name": "FastAPI Base",
-  "description": "A basic FastAPI app",
-  "repository": "https://github.com/apjanco/fastapi_template"
+  "description": "A basic FastAPI app"
 }
